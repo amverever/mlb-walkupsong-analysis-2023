@@ -1,0 +1,911 @@
+player_no,team_code,first_name,last_name,song,song_code
+1,ARI,Nick,Ahmed,"I'm A Saint",s0001
+2,ARI,Sergio,Alcántara,GALAPIN,s0002
+3,ARI,Seth,Beer,"Ooh Ahh (My Life Be like)",s0003
+4,ARI,J.B.,Bukauskas,"What I Can't Put Down",s0903
+5,ARI,Humberto,Castellanos,"El Toro de Jalisco",s0005
+6,ARI,Paul,Fry,TaKillYa,s0006
+7,ARI,Zac,Gallen,"Let The Beat Build",s0007
+8,ARI,Jose,Herrera,"Hay Problema",s0008
+9,ARI,Tyler,Holton,"Take it Outside",s0009
+10,ARI,Carson,Kelly,"Purple Haze",s0010
+11,ARI,Merrill,Kelly,"Ante Up (Robin Hoodz Theory)",s0011
+12,ARI,Buddy,Kennedy,"Hot (remix)",s0598
+13,ARI,Joe,Mantiply,"Burning Man",s0013
+14,ARI,Ketel,Marte,Replica,s0014
+15,ARI,Corbin,Martin,"New Year's Day",s0015
+16,ARI,Jake,McCarthy,Tweezer-Reprise,s0016
+17,ARI,Mark,Melancon,Thunderstruck,s0017
+18,ARI,Kyle,Nelson,"Run This Town",s0760
+19,ARI,Geraldo,Perdomo,"No Hands",s0019
+20,ARI,Josh,Rojas,"Put On",s0020
+21,ARI,Caleb,Smith,"Clint Eastwood",s0021
+22,ARI,Pavin,Smith,"Living Water",s0022
+23,ARI,Alek,Thomas,"A Milli",s0023
+24,ARI,Edwin,Uceta,"El Coba",s0024
+25,ARI,Christian,Walker,Goosebumps,s0890
+26,ARI,Taylor,Widener,"Simple Man",s0828
+27,ATL,Ronald,"Acuña Jr.","Fiesta & Calle",s0445
+28,ATL,Ehire,Adrianza,"La Jumpa",s0517
+29,ATL,Ozzie,Albies,"For The Night",s0029
+30,ATL,Nick,Anderson,Nonstop,s0030
+31,ATL,Orlando,Arcia,"La Llevo Al Cielo",s0031
+32,ATL,Jesse,Chavez,"Keep It Light",s0032
+33,ATL,Travis,d'Arnaud,"This is the Way I Live",s0033
+34,ATL,Dylan,Dodd,"Lonely Is The Night",s0034
+35,ATL,Bryce,Elder,"Time of Day",s0035
+36,ATL,Max,Fried,"Middle Child",s0226
+37,ATL,Vaughn,Grissom,"Who You Foolin",s0037
+38,ATL,Michael,"Harris II","Make It Rain",s0038
+39,ATL,Sam,Hilliard,"I Wrote The Book",s0715
+40,ATL,Raisel,Iglesias,"I Gotta Feeling",s0040
+41,ATL,Joe,Jimenez,Runnin,s0041
+42,ATL,Dylan,Lee,Vacation,s0042
+43,ATL,Lucas,Luetge,"Swag Surfin'",s0043
+44,ATL,Collin,McHugh,""So Fresh, So Clean"",s0044
+45,ATL,A.J.,Minter,"Halftime (Stand Up and Get Crunk)",s0045
+46,ATL,Charlie,Morton,"Palmetto Rose",s0046
+47,ATL,Sean,Murphy,"Sittin Sidewayz",s0047
+48,ATL,Tyler,Matzek,"Atlas Rise",s0048
+49,ATL,Matt,Olson,"Superhero (Heroes & Villains)",s0049
+50,ATL,Marcell,Ozuna,"Rulay & Pica Pollo",s0657
+51,ATL,Kevin,Pillar,"Broadway Girls",s0051
+52,ATL,Austin,Riley,"What You Know",s0587
+53,ATL,Eddie,Rosario,"Padre Tiempo",s0053
+54,ATL,Nick,Solak,"Down In Atlanta",s0054
+55,ATL,Mike,Soroka,"Dead But Rising",s0055
+56,ATL,Jackson,Stephens,"Party Like a Rock Star",s0056
+57,ATL,Spencer,Strider,"Bring It On Home",s0057
+58,ATL,Michael,Tonkin,"Play With Fire",s0058
+59,ATL,Chadwick,Tromp,"I Wrote The Book",s0715
+60,ATL,Eli,White,""Good Times, Bad Times"",s0060
+61,ATL,Kyle,Wright,"Electric Feel",s0550
+62,ATL,Kirby,Yates,"Could You Be Loved",s0062
+63,ATL,Danny,Young,"Immigrant Song",s0063
+64,BAL,Bryan,Baker,"Levels - Radio Edit",s0064
+65,BAL,Mike,Baumann,"My Hero",s0065
+66,BAL,Félix,Bautista,"Saxofono Para Musicologos",s0066
+67,BAL,Anthony,Bemboom,"Come Together",s0843
+68,BAL,Kyle,Bradish,"Motley Crew",s0544
+69,BAL,Yennier,Cano,"Como te Pago",s0069
+70,BAL,Adam,Frazier,"Outta Control - Remix",s0070
+71,BAL,Logan,Gillaspie,LAYERS,s0772
+72,BAL,DL,Hall,"Back In Black",s0674
+73,BAL,Austin,Hays,"Rolex® On A Redneck",s0073
+74,BAL,Gunnar,Henderson,"The Sweet Escape",s0074
+75,BAL,Aaron,Hicks,"Can't C Me",s0075
+76,BAL,Cole,Irvin,Hillbilly,s0076
+77,BAL,Jorge,Mateo,"Rico De Cuna",s0077
+78,BAL,James,McCann,"Back In Black",s0674
+79,BAL,Ryan,McKenna,"Who I Am",s0079
+80,BAL,John,Means,"Safe and Sound - ZION I Remix",s0080
+81,BAL,Ryan,Mountcastle,""Dear Maria, Count Me In "",s0081
+82,BAL,Cedric,Mullins,"On The Road",s0082
+83,BAL,Ryan,O'Hearn,Stranglehold,s0866
+84,BAL,Cionel,Perez,"De Donde Yo Sali",s0673
+85,BAL,Grayson,Rodriguez,Gasolina,s0085
+86,BAL,Adley,Rutschman,Self-Made,s0086
+87,BAL,Anthony,Santander,"Me gustas - En vivo",s0087
+88,BAL,Kyle,Stowers,Sunset,s0088
+89,BAL,Ramon,Urías,"La Santa",s0089
+90,BAL,Terrin,Vavra,"Look Ahead",s0630
+91,BAL,Nick,Vespi,"Saint Tropez",s0091
+92,BAL,Austin,Voth,"Joker And The Thief",s0660
+93,BAL,Spenser,Watkins,"Gravy Train",s0093
+94,BAL,Tyler,Wells,"Fire Up The Night",s0094
+95,BAL,Bruce,Zimmermann,Rooster,s0571
+96,BOR,Jorge,Alfaro,"Hey Mor",s0096
+97,BOR,Christian,Arroyo,"Calm Down",s0833
+98,BOR,Brayan,Bello,"Solo Yo",s0098
+99,BOR,Brennan,Bernardino,"Song Not Available",NULL
+100,BOR,Richard,Bleier,"Nothin' But a Good Time",s0100
+101,BOR,Triston,Casas,"It Was a Good Day",s0232
+102,BOR,Yu,Chang,"Crank That (Soulja Boy)",s0102
+103,BOR,Kutter,Crawford,"Hustler Musik",s0199
+104,BOR,Rafael,Devers,Leyenda,s0237
+105,BOR,Jarren,Duran,"Let's Get Married (ReMarqable Remix)",s0105
+106,BOR,Adam,Duvall,"Song Not Available",NULL
+107,BOR,Kiké,Hernández,PASIEMPRE,s0107
+108,BOR,Joe,Jacques,"Song Not Available",NULL
+109,BOR,Kenley,Jansen,CHAMPIONS,s0109
+110,BOR,Chris,Martin,Texas,s0318
+111,BOR,Chris,Murphy,"Must Be The Feeling",s0111
+112,BOR,James,Paxton,"Song Not Available",NULL
+113,BOR,Nick,Pivetta,"Wipe Me Down",s0113
+114,BOR,Rob,Refsnyder,"Come Down",s0114
+115,BOR,Joely,Rodríguez,"Song Not Available",NULL
+116,BOR,Justin,Turner,Boston,s0116
+117,BOR,Alex,Verdugo,""Volver, Volver "",s0117
+118,BOR,Brandon,Walter,"Song Not Available",NULL
+119,BOR,Josh,Winckowski,"Song Not Available",NULL
+120,BOR,Connor,Wong,"WHO? WHAT!",s0120
+121,BOR,Masataka,Yoshida,"Good Feeling",s0121
+122,CHC,Javier,Assad,"Gracias (End Vivo)",s0122
+123,CHC,Wilson,Contreras,Hot,s0123
+124,CHC,Jeremiah,Estrada,"Here Comes The Boom",s0124
+125,CHC,Adbert,Alzolay,"Joseo y Fe",s0125
+126,CHC,David,Bote,Brother,s0803
+127,CHC,Steven,Brault,"Seven Nation Army",s0127
+128,CHC,Christopher,Morel,"Tití Me Preguntó",s0128
+129,CHC,Alec,Mills,"Electric Worry",s0129
+130,CHC,Wade,Miley,"Hillbilly Deluxe",s0893
+131,CHC,Zach,McKinstry,"Lil Bit",s0131
+132,CHC,Kyle,Hendricks,Superstition,s0678
+133,CHC,Jason,Heyward,Frozen,s0133
+134,CHC,Michael,Hermosillo,"Last Last",s0134
+135,CHC,P.J.,Higgins,"Here Comes The Hotstepper",s0135
+136,CHC,Ian,Happ,"Lose Control",s0136
+137,CHC,Nick,Madrigal,"Hotel Lobby",s0137
+138,CHC,Mark,"Leiter Jr.","The Mountain",s0138
+139,CHC,Brandon,Hughes,Jump,s0139
+140,CHC,Yan,Gomes,"Brooklyn Go Hard",s0140
+141,CHC,Nico,Hoerner,"Tequila Shots",s0247
+142,CHC,Sean,Newcomb,"Coming In Hot",s0142
+143,CHC,Patrick,Wisdom,Body,s0143
+144,CHC,Rowan,Wick,"I Got It",s0144
+145,CHC,Hayden,Wesneski,"Jump Around",s0774
+146,CHC,Nelson,Velazquez,"Uva Bombom",s0146
+147,CHC,Erich,Uelmen,"Follow God",s0780
+148,CHC,Keegan,Thompson,"Waves (Clean Version)",s0148
+149,CHC,Seiya,Suzuki,"Public Service Announcement",s0805
+150,CHC,Justin,Steele,"God's Gonna Cut You Down",s0810
+151,CHC,Drew,Smyly,"My Songs Know What You Did In The Dark (Light Em Up)",s0151
+152,CHC,Adrian,Sampson,"Till I Collapse",s0551
+153,CHC,Michael,Rucker,"Mr. Blue Sky",s0153
+154,CHC,Manuel,Rodriguez,Familia,s0154
+155,CHC,Ethan,Roberts,Shine,s0155
+156,CHC,Alfonso,Rivas,"Volver Volver",s0156
+157,CHC,Franmil,Reyes,Lifestyle,s0157
+158,CHC,Rafael,Ortega,"Thank You Hashem (DJ Niso Slob Remix)",s0158
+159,CHW,Tim,Anderson,"Cost To Be Alive",s0682
+160,CHW,Elvis,Andrus,"Noche de Arreboles",s0160
+161,CHW,Andrew,Benintendi,"Bless Em",s0161
+162,CHW,Jake,Burger,"Bullet with Butterfly Wings",s0162
+163,CHW,Oscar,Colás,"De Donde Yo Salí",s0673
+164,CHW,Yasmani,Grandal,"Like Wooh Wooh",s0164
+165,CHW,Romy,González,"RACKS BLUE",s0165
+166,CHW,Adam,Haseley,"Dead Man Walking",s0166
+167,CHW,Eloy,Jiménez,"Dark Heart",s0167
+168,CHW,Yoán,Moncada,Rush,s0168
+169,CHW,Luis,"Robert Jr.","Toy Burlao",s0169
+170,CHW,Gavin,Sheets,"Buy the World",s0170
+171,CHW,Lenyn,Sosa,"Las Avispas",s0867
+172,CHW,Andrew,Vaughn,"God's Gonna Cut You Down",s0810
+173,CHW,Seby,Zavala,"Back Then",s0173
+174,CHW,Tanner,Banks,"Gotta Have It",s0174
+175,CHW,Aaron,Bummer,"Me & My Demons",s0175
+176,CHW,Dylan,Cease,"Adonis Interlude (The Montage)",s0176
+177,CHW,Mike,Clevinger,"Ooh La La",s0177
+178,CHW,Lucas,Giolito,"Surround Sound",s0265
+179,CHW,Liam,Hendriks,"We Will Rock You",s0179
+180,CHW,Kendall,Graveman,"I Meant It",s0180
+181,CHW,Joe,Kelly,Alone,s0181
+182,CHW,Michael,Kopech,"Angel Band (Jubilee Version)",s0182
+183,CHW,Jimmy,Lambert,"Knuck If You Buck",s0183
+184,CHW,Reynaldo,López,"Sanctus Real",s0184
+185,CHW,Lance,Lynn,"No Problem",s0185
+186,CHW,Keynan,Middleton,"Search & Rescue",s0186
+187,CIN,Graham,Ashcraft,"Black Powder Soul",s0187
+188,CIN,Jose,Barrero,Repórtense,s0188
+189,CIN,Will,Benson,"Lord Knows",s0189
+190,CIN,Curt,Casali,"Safari Song",s0190
+191,CIN,Luis,Cessa,Pepas,s0191
+192,CIN,Fernando,Cruz,"Circle Of Life",s0192
+193,CIN,Alexis,Díaz,Matador,s0193
+194,CIN,Stuart,Fairchild,"Superhero (Heros & Villains)",s0194
+195,CIN,Buck,Farmer,"The Chain",s0738
+196,CIN,Jake,Fraley,"Set In Stone",s0196
+197,CIN,Ian,Gibaut,Texas,s0318
+198,CIN,Hunter,Greene,""Shook Ones, Pt. II "",s0198
+199,CIN,Jonathan,India,"Hustler Musik",s0199
+200,CIN,Joel,Kuhnel,Remedy,s0200
+201,CIN,Derek,Law,"High Hopes",s0201
+202,CIN,Nick,Lodolo,"Tequila Shots",s0247
+203,CIN,Luke,Maile,Kashmir,s0603
+204,CIN,Wil,Myers,"Kickstart My Heart",s0841
+205,CIN,Kevin,Newman,LION,s0205
+206,CIN,Connor,Overton,"Tuesday's Gone",s0206
+207,CIN,Reiver,Sanmartin,"La Rebelión",s0207
+208,CIN,Spencer,Steer,Solid,s0208
+209,CIN,Tyler,Stephenson,BOOTS,s0209
+210,CIN,Jason,Vosler,Baianá,s0700
+211,CIN,Joey,Votto,"Nikes On My Feet",s0211
+212,CIN,Alex,Young,"Circo Loco",s0346
+213,CLE,Gabriel,Arias,25/8,s0733
+214,CLE,Josh,Bell,"Really Got It",s0214
+215,CLE,Will,Brennan,"White Tiger (Cat Carpenter Remix)",s0215
+216,CLE,Shane,Bieber,"Attention Span",s0216
+217,CLE,Aaron,Civale,"Down And Out",s0217
+218,CLE,Emmanuel,Clase,"Di Di Di",s0218
+219,CLE,Xzavion,Curry,"Stay Fly",s0219
+220,CLE,Enyel,"De Los Santos","Papa Dios Me Dijo",s0220
+221,CLE,Hunter,Gaddis,Flower,s0635
+222,CLE,Cameron,Gallagher,"Cooped Up / Return of the Mack",s0222
+223,CLE,Andrés,Giménez,Medallo,s0223
+224,CLE,Oscar,Gonzalez,"SpongeBob SquarePants Theme Song",s0224
+225,CLE,Sam,Hentges,"Break Em' Off",s0225
+226,CLE,Tim,Herrin,"Middle Child",s0226
+227,CLE,James,Karinchak,Rise,s0227
+228,CLE,Steven,Kwan,"Blow the Whistle",s0228
+229,CLE,Triston,McKenzie,"Fair Trade",s0229
+230,CLE,Eli,Morgan,"Can't You Hear Me Knocking",s0230
+231,CLE,Cody,Morris,"I'm Good",s0231
+232,CLE,Bo,Naylor,"It Was A Good Day",s0232
+233,CLE,Josh,Naylor,"Hold Yuh",s0233
+234,CLE,Konnor,Pilkington,"Gimme Shelter",s0722
+235,CLE,Zach,Plesac,"Calling My Spirit",s0235
+236,CLE,Cal,Quantrill,"Famous Last Words",s0236
+237,CLE,José,Ramírez,Leyenda,s0237
+238,CLE,Amed,Rosario,"Porque Tengo Cuarto",s0238
+239,CLE,Nick,Sandlin,"Hollywood's Bleeding",s0239
+240,CLE,Trevor,Stephan,"Get Into It (Yuh)",s0240
+241,CLE,Myles,Straw,"Hey Ma",s0241
+242,CLE,Meibrys,Viloria,"Tamo' Locos",s0242
+243,CLE,Mike,Zunino,"Does To Me",s0243
+244,COL,Daniel,Bard,"Nothing Holds Me Down",s0244
+245,COL,Ty,Blach,"River of Life",s0798
+246,COL,Charlie,Blackmon,"Your Love",s0246
+247,COL,Kris,Bryant,"Tequila Shots",s0247
+248,COL,Jhoulys,Chacin,"Meet Me in the Middle",s0248
+249,COL,Alex,Colome,Farruko,s0249
+250,COL,Yonathan,Daza,"Maracay Way",s0250
+251,COL,Elias,Díaz,"Las Avispas",s0867
+252,COL,Carlos,Estévez,"Llego El Real Remix- En Vivo",s0252
+253,COL,Kyle,Freeland,"Trap Paris (Clean)",s0253
+254,COL,Lucas,Gilbreath,"Ride the Lightning",s0254
+255,COL,Ashton,Goudeau,"Motley Crew",s0544
+256,COL,Randal,Grichuk,"Lil' Bit",s0256
+257,COL,Garrett,Hampson,"Under the Sun",s0257
+258,COL,Sam,Hilliard,"Sleeping on the Blacktop",s0289
+259,COL,Conner,Joe,Redbone,s0668
+260,COL,Chad,Kuhl,Rooster,s0571
+261,COL,Justin,Lawerence,"All for Us",s0261
+262,COL,German,Márquez,"Pensando En Ti",s0262
+263,COL,Ryan,McMahon,Drifter,s0263
+264,COL,Dom,Nuñez,"Me or Sum",s0264
+265,COL,Brendan,Rodgers,"Surround Sound",s0265
+266,COL,Antonio,Senzatela,"Esta Vida",s0266
+267,COL,Alan,Trejo,"Oh Boy",s0267
+268,DET,Tyler,Alexander,"bad guy",s0268
+269,DET,Akil,Baddoo,"It’s Plenty",s0269
+270,DET,Javier,Baez,"Tengo Amigos",s0270
+271,DET,Matthew,Boyd,"Cinderella Man",s0271
+272,DET,Miguel,Cabrera,"Let´s Get It",s0272
+273,DET,Kerry,Carpenter,"Fruits Of My Labor",s0273
+274,DET,José,Cisnero,"Ay Si Niño",s0815
+275,DET,Brendon,Davis,Ghost,s0618
+276,DET,Mason,Englert,Yikes,s0276
+277,DET,Jason,Foley,"What Is Love (7´´ Mix)",s0277
+278,DET,Rony,Garcia,Singapur,s0278
+279,DET,Greene,,"Me On Whiskey",s0279
+280,DET,Eric,Haase,"Coming Undone",s0336
+281,DET,Garrett,Hill,"My Kind Of Party",s0281
+282,DET,Andy,Ibáñez,"Así Como David Danzaba",s0282
+283,DET,Ryan,Kreidler,"In The Yuma",s0283
+284,DET,Alex,Lange,"Sweet Emotion",s0284
+285,DET,Matt,Manning,"Public Service Announcement",s0805
+286,DET,Nick,Maton,"Hungry Like The Wolf",s0286
+287,DET,Zach,McKinstry,Bawitaba,s0287
+288,DET,Austin,Meadows,"Calm Down",s0833
+289,DET,Casey,Mize,"Sleeping on the Blacktop",s0289
+290,DET,Tyler,Nevin,"Square Dance",s0839
+291,DET,Eduardo,Rodriguez,Benediciones,s0291
+292,DET,Jake,Rogers,"Fast As You",s0292
+293,DET,Jonathan,Schoop,"Ku Lo Sa",s0293
+294,DET,Zack,Short,Outkast,s0294
+295,DET,Tarik,Skubal,"Free Smoke",s0295
+296,DET,Spencer,Torkelson,"White Tiger (Cat Carpenters Remix)",s0296
+297,DET,Spencer,Turnbull,"No Longer Bound",s0297
+298,DET,Will,Vest,"Glitter Ain't Gold",s0807
+299,DET,Matt,Vierling,"Country Grammar",s0299
+300,DET,Joey,Wentz,Business,s0300
+301,DET,Trey,Wingenter,"Diamonds From Sierra Leone",s0301
+302,HOU,Jose,Abreu,"El Duro",s0302
+303,HOU,Jose,Altuve,"Mas De La Una",s0303
+304,HOU,Yordan,Alvarez,"Still Tippin",s0304
+305,HOU,Rylan,Bannon,"Follow God",s0780
+306,HOU,Alex,Bregman,"Change Lanes",s0306
+307,HOU,Michael,Brantley,"Walk Thru",s0307
+308,HOU,Yainer,Diaz,"Jovenes Millionarios",s0308
+309,HOU,Mauricio,Dubon,"No Se Va (En Vivo)",s0309
+310,HOU,David,Hensley,Rambo,s0310
+311,HOU,Corey,Julks,"Just A Dog",s0311
+312,HOU,Korey,Lee,""Nuthin' But A ""G"" Thing "",s0312
+313,HOU,Martin,Maldonado,"Gracias Remix",s0313
+314,HOU,Chas,McCormick,"Rocky Road Pt. 2",s0314
+315,HOU,Jake,Meyers,"In The Air Tonight",s0315
+316,HOU,Jeremy,Pena,Grillz,s0316
+317,HOU,Cesar,Salazar,"Hasta Que Dios Diga",s0317
+318,HOU,Kyle,Tucker,Texas,s0318
+319,HOU,Bryan,Abreu,"Comenzo La Fiesta",s0319
+320,HOU,Ronel,Blanco,"Tontoron Tonton",s0320
+321,HOU,Hunter,Brown,Stranglehold,s0866
+322,HOU,Luis,Garcia,"Yandel 150",s0685
+323,HOU,Christian,Javier,"Las Avispas",s0867
+324,HOU,Seth,Martinez,"Voodoo Child",s0324
+325,HOU,Lance,"McCullers Jr.","Surf Swag",s0325
+326,HOU,Phil,Maton,"The Joker and The Thief",s0326
+327,HOU,Rafael,Montero,"No Guardo Luto",s0327
+328,HOU,Hector,Neris,"La Muchachita",s0328
+329,HOU,Ryan,Pressly,"God's Gonna Cut You Down",s0810
+330,HOU,Ryne,Stanek,"Still D.R.E.",s0644
+331,HOU,Jose,Urquidy,"El Corrido De Mazatlan",s0331
+332,HOU,Framber,Valdez,"Ella Baila Sola",s0830
+333,KC,Scott,Barlow,"The Waltz",s0333
+334,KC,Kris,Bubic,"I Wanna Rock - The Kings G-Mix",s0334
+335,KC,Aroldis,Chapman,"La Vida es un Carnaval",s0335
+336,KC,Taylor,Clarke,"Coming Undone",s0336
+337,KC,Dylan,Coleman,Solo,s0337
+338,KC,Matt,Duffy,"Age of Machine",s0338
+339,KC,Nate,Eaton,"Outlaws Like Us",s0339
+340,KC,Freddy,Fermin,"Feliz Cumpleaños Ferxxo",s0340
+341,KC,Maikel,Garcia,25/8,s0733
+342,KC,Amir,Garrett,"Hussle & Motivate",s0342
+343,KC,Zack,Greinke,"Anywhere With You",s0343
+344,KC,Jonathan,Heasley,"South On Ya",s0621
+345,KC,Carlos,Hernandez,"Mi Nina",s0345
+346,KC,Kyle,Isbel,"Circo Loco",s0346
+347,KC,Brad,Keller,Frogman,s0347
+348,KC,Nicky,Lopez,Fly,s0348
+349,KC,Jordan,Lyles,Numb,s0349
+350,KC,Daniel,Lynch,"Whole Lotta Love",s0350
+351,KC,Michael,Massey,"Man Made A Bar",s0351
+352,KC,MJ,Melendez,Altar,s0352
+353,KC,Edward,Olivares,Otro,s0353
+354,KC,Vinnie,Pasquantino,Transportin',s0354
+355,KC,Salvador,Perez,"Yandel 150",s0685
+356,KC,Nick,Pratto,Roses,s0356
+357,KC,Brady,Singer,"Waiting for the Thunder",s0357
+358,KC,Collin,Snider,"The Stroke",s0683
+359,KC,Josh,Taylor,"can't look back",s0359
+360,KC,Drew,Waters,"Live Your Life",s0360
+361,KC,Bobby,"Witt Jr.","You Can't Imagine",s0361
+362,LAA,Tyler,Anderson,"Last Red Down",s0362
+363,LAA,Jaime,Barria,"Patria (Motherland)",s0363
+364,LAA,Griffin,Canning,"Blue World",s0662
+365,LAA,Tucker,Davidson,"Praise God",s0365
+366,LAA,Reid,Detmers,"Welcome To The Show",s0366
+367,LAA,Brandon,Drury,"2 Of Amerikaz Most Wanted",s0367
+368,LAA,Carlos,Estevez,"Después de la Playa",s0725
+369,LAA,David,Fletcher,"Forgot About Dre",s0369
+370,LAA,Jimmy,Herget,Sabotage,s0573
+371,LAA,Jake,Lamb,"Feds Watching",s0371
+372,LAA,Aaron,Loup,"UNAPOLOGETICALLY COUNTRY AS HELL",s0372
+373,LAA,Matt,Moore,"King Nothing",s0373
+374,LAA,Logan,O'Hoppe,"Public Service Announcment",s0374
+375,LAA,Shohei,Ohtani,"Can't Get Enough",s0375
+376,LAA,Brett,Philips,""Wish on an Eyelash, Pt. 2 "",s0376
+377,LAA,Jose,Quijada,"Sigo Siendo el Papá",s0377
+378,LAA,Anthony,Rendon,"Bidi Bidi Bom Bom",s0378
+379,LAA,Hunter,Renfroe,"I Wrote The Book",s0715
+380,LAA,Luis,Rengifo,512,s0380
+381,LAA,Patrick,Sandoval,"Mueve Tu Cintura",s0381
+382,LAA,Max,Stassi,"First Off",s0382
+383,LAA,Jose,Suarez,"Yo Sé Que Dios Me Tiene A Mi Lo Mio",s0383
+384,LAA,Ryan,Tepera,"Wherever I May Roam",s0488
+385,LAA,Mike,Trout,"I Luv It",s0385
+386,LAA,Gio,Urshela,"Where I Belong",s0813
+387,LAA,Jared,Walsh,"The World Is Yours",s0387
+388,LAA,Andrew,Wantz,GHOST!,s0388
+389,LAA,Taylor,Ward,Too,s0389
+390,LAD,Yency,Almonte,10K,s0390
+391,LAD,Austin,Barnes,Superhero,s0391
+392,LAD,Mookie,Betts,"30 For 30",s0392
+393,LAD,Phil,Bickford,Apricots,s0393
+394,LAD,Walker,Buehler,"Shots & Squats",s0394
+395,LAD,Caleb,Ferguson,"Song Not Available",NULL
+396,LAD,Freddie,Freeman,"Baila Conmigo",s0396
+397,LAD,Tony,Gonsolin,"Cat Daddy",s0397
+398,LAD,Brusdar,Graterol,"Real Guerrero - Remix",s0398
+399,LAD,Michael,Grove,"Grove St. Party",s0637
+400,LAD,Jason,Heyward,"Jimmy Cooks",s0499
+401,LAD,Andre,Jackson,"I'm Your Boogie Man",s0401
+402,LAD,Clayton,Kershaw,"We Are Young",s0887
+403,LAD,JD,Martinez,Hustlin',s0876
+404,LAD,Dustin,May,"Born of a Broken Man",s0404
+405,LAD,Shelby,Miller,"Victory Lap",s0405
+406,LAD,Max,Muncy,"Welcome To The Party",s0406
+407,LAD,James,Outman,"Get It Today",s0407
+408,LAD,David,Peralta,"La Chona",s0408
+409,LAD,Evan,Phillips,"Patty Pinblett Entrancm",s0409
+410,LAD,Miguel,Rojas,25/8,s0733
+411,LAD,Will,Smith,"Ride Wit Me",s0786
+412,LAD,Noah,Syndergaard,"Hail Mary",s0412
+413,LAD,Chris,Taylor,"Pump It",s0413
+414,LAD,Trayce,Thompson,"Blue Laces",s0414
+415,LAD,Blake,Treinen,"Fire Emoji",s0415
+416,LAD,Julio,Urías,"¿Quién Dijo?",s0416
+417,LAD,Miguel,Vargas,"El Hokage",s0507
+418,LAD,Alex,Vesia,Gasoline,s0418
+419,MIA,Sandy,Alcantara,Alibaba,s0419
+420,MIA,Matt,Barnes,Bigfoot,s0420
+421,MIA,Huascar,Brazoban,"El Ganador",s0421
+422,MIA,Edward,Cabrera,"Tengo Mas",s0422
+423,MIA,Daniel,Castano,"Open the Gate",s0423
+424,MIA,JT,Chargois,"Edge of Seventeen",s0424
+425,MIA,Johnny,Cueto,"Corazon Culpaple",s0425
+426,MIA,Dylan,Floro,"For Whom the Bell Tolls",s0698
+427,MIA,Braxton,Garrett,"Sweet Home Alabama",s0547
+428,MIA,Bryan,Hoeing,"What You Know",s0587
+429,MIA,Jesus,Luzardo,"Survival of the Fittest",s0429
+430,MIA,Andrew,Nardi,"Separate Ways (Worlds Apart)",s0430
+431,MIA,Steven,Okert,"Kings of Summer - Single Version",s0431
+432,MIA,A.J.,Puk,Intro,s0432
+433,MIA,Johan,Quezada,"Dios Nunca Falla",s0433
+434,MIA,Trevor,Rogers,"Sharp Dressed Man",s0434
+435,MIA,Tanner,Scott,Mother,s0435
+436,MIA,Devin,Smeltzer,"A Pirate Looks at 40",s0436
+437,MIA,Luis,Arraez,"A I O",s0437
+438,MIA,Jon,Berti,"Still D.R.E. - Instrumental",s0438
+439,MIA,Peyton,Burdick,"Family Ties",s0439
+440,MIA,Jazz,"Chisholm Jr.","Jazz Chisholm",s0440
+441,MIA,Garrett,Cooper,"California Breeze",s0441
+442,MIA,Bryan,"De La Cruz","Sal Pa La Luz",s0442
+443,MIA,Xavier,Edwards,"Gang Gang",s0443
+444,MIA,Nick,Fortes,"The Devil is a Lie",s0444
+445,MIA,Avisail,Garcia,"Fiesta & Calle",s0445
+446,MIA,Yuli,Gurriel,"El Vecino",s0446
+447,MIA,Garrett,Hampson,"STAYING ALIVE",s0447
+448,MIA,Jesus,Sanchez,Bendecio,s0448
+449,MIA,Jean,Segura,"Ay si Nino",s0815
+450,MIA,Jorge,Soler,"Mirenme Ahora",s0453
+451,MIA,Jacob,Stallings,"Awesome God",s0451
+452,MIA,Joey,Wendle,Nobody,s0452
+453,MIL,Willy,Adames,"Mírenme Ahora",s0453
+454,MIL,Brian,Anderson,"Sweet Child O' Mine",s0454
+455,MIL,Mike,Brosseau,"Speak 4 Em",s0455
+456,MIL,Victor,Caratini,Agradecido,s0456
+457,MIL,William,Contreras,Narco,s0531
+458,MIL,Owen,Miller,Yungen,s0458
+459,MIL,Garrett,Mitchell,"Lemon Pepper Freestyle",s0459
+460,MIL,Andruw,Monasterio,"Pa' Que Retozen",s0460
+461,MIL,Blake,Perkins,"No Fear",s0461
+462,MIL,Darin,Ruf,"Doin' This",s0462
+463,MIL,Raimel,Tapia,"Salve a San Antonio",s0463
+464,MIL,Tyrone,Taylor,"I'm Real",s0464
+465,MIL,Rowdy,Tellez,"California Day",s0465
+466,MIL,Abraham,Toro,"Yandel 150",s0685
+467,MIL,Brice,Turang,Paradise,s0467
+468,MIL,Luis,Urías,"Ella Baila Sola",s0830
+469,MIL,Joey,Wiemer,"Party On Fifth Ave.",s0469
+470,MIL,Jesse,Winker,"Jumbotron Poppin'",s0470
+471,MIL,Christian,Yelich,Jungle,s0471
+472,MIL,Jason,Alexander,De-Stress,s0472
+473,MIL,Aaron,Ashby,"Howlin' For You",s0473
+474,MIL,J.B.,Bukauskas,"What I Can't Put Down",s0903
+475,MIL,Corbin,Burnes,"Friends In Low Places",s0475
+476,MIL,Jake,Cousins,"The Show Goes On",s0476
+477,MIL,Adrian,Houser,Stranglehold,s0866
+478,MIL,Janson,Junk,"Black Hole Sun",s0478
+479,MIL,Eric,Lauer,Zoom,s0479
+480,MIL,Trevor,Megill,"The Four Horsemen",s0480
+481,MIL,Wade,Miley,"The Spirit Of Radio",s0481
+482,MIL,Tyson,Miller,Higher,s0482
+483,MIL,Hoby,Milner,"Please Don't Go",s0483
+484,MIL,Joel,Payamps,JS4E,s0484
+485,MIL,Elvis,Peguero,"Apuesta A Mi",s0485
+486,MIL,Freddy,Peralta,"Con Cotorra No",s0486
+487,MIL,Colin,Rea,red,s0487
+488,MIL,Ethan,Small,"Wherever I May Roam",s0488
+489,MIL,Bennett,Sousa,Unified,s0489
+490,MIL,Peter,Strzelecki,Reborn,s0490
+491,MIL,Julio,Teheran,"El Centurión de la Noche",s0491
+492,MIL,Devin,Williams,Ready,s0492
+493,MIL,Bryse,Wilson,"God's Gonna Cut You Down",s0810
+494,MIL,Brandon,Woodruff,"What Makes You Country",s0494
+495,MIN,Byron,Buxton,"Cut Me Up",s0495
+496,MIN,Willi,Castro,"Que No (Remix)",s0496
+497,MIN,Carlos,Correa,25/8,s0733
+498,MIN,Kyle,Farmer,"A Sky Full of Stars",s0498
+499,MIN,Joey,Gallo,"Jimmy Cooks",s0499
+500,MIN,Nick,Gordon,"Money Trees",s0500
+501,MIN,Ryan,Jeffers,"Ms. Poli Sci",s0501
+502,MIN,Edouard,Julien,"All My Life",s0838
+503,MIN,Max,Kepler,Cameras,s0503
+504,MIN,Alex,Kirilloff,Blessings,s0504
+505,MIN,Trevor,Larnach,"Cooler than a Bitch",s0505
+506,MIN,Royce,Lewis,Walk,s0506
+507,MIN,Jose,Miranda,"El Hokage",s0507
+508,MIN,Jorge,Polanco,"Te Siento En Para",s0508
+509,MIN,Donovan,Solano,"Calm Down",s0833
+510,MIN,Michael,Taylor,"You Got It",s0510
+511,MIN,Christian,Vázquez,"Gracias - Remix",s0511
+512,MIN,Matt,Wallner,Rollin,s0512
+513,MIN,Jorge,Alcala,"Voy a ser Grande",s0513
+514,MIN,Jhoan,Duran,"El Incromprendido",s0514
+515,MIN,Sonny,Gray,Throwback,s0515
+516,MIN,Griffin,Jax,"No Long Talk",s0516
+517,MIN,Jorge,López,"La Jumpa",s0517
+518,MIN,Pablo,López,"Tu Me Quemas",s0518
+519,MIN,Kenta,Maeda,Hikoutei,s0519
+520,MIN,Tyler,Mahle,"The Outsiders",s0520
+521,MIN,Jovani,Moran,"El Mundo Es Mio",s0521
+522,MIN,Emilio,Pagán,""Stop, Drop, Roll "",s0522
+523,MIN,Joe,Ryan,"Fire On the Mountain",s0523
+524,MIN,Cole,Sands,Sandstorm,s0524
+525,MIN,Caleb,Thielbar,"Wake Up",s0525
+526,MIN,"Simeon Woods",Richardson,"Duffle Bag Boy",s0582
+527,NYM,Pete,Alonso,""Shook Ones, Pt. II"",s0527
+528,NYM,Brett,Baty,"After Hours",s0528
+529,NYM,Mark,Canha,"Tarzan Boy",s0529
+530,NYM,Carlos,Carrasco,"Summer of '69",s0530
+531,NYM,Edwin,Díaz,Narco,s0531
+532,NYM,Eduardo,Escobar,Dura,s0532
+533,NYM,Luis,Guillorme,"Brother Louie",s0533
+534,NYM,Tommy,Hunter,"N****s in Paris",s0534
+535,NYM,Francisco,Lindor,"El Abayarde",s0535
+536,NYM,Tim,Locastro,"Old Thing Back",s0536
+537,NYM,Starling,Marte,"Si Lo Puedes Soñar",s0537
+538,NYM,Jeff,McNeil,"Rock of Ages",s0797
+539,NYM,Tylor,Megill,"Big Poppa",s0539
+540,NYM,Tomás,Nido,"Me Porto Bonito",s0736
+541,NYM,Brandon,Nimmo,"I'm So Blessed - Best Day Remix",s0541
+542,NYM,Stephen,Nogosek,"Dixieland Delight",s0542
+543,NYM,Adam,Ottavino,Alive,s0654
+544,NYM,David,Peterson,"Motley Crew",s0544
+545,NYM,Tommy,Pham,Freestyle,s0681
+546,NYM,Brooks,Raley,"Loud and Heavy",s0546
+547,NYM,David,Roberston,"Sweet Home Alabama",s0547
+548,NYM,Max,Scherzer,Forever,s0548
+549,NYM,Kodai,Senga,"Counting Stars",s0549
+550,NYM,Drew,Smith,"Electric Feel",s0550
+551,NYM,Justin,Verlander,"Till I Collapse",s0551
+552,NYM,Daniel,Vogelbach,"Type of Way",s0552
+553,NYY,Aaron,Judge,Hello,s0553
+554,NYY,Anthony,Rizzo,Intoxicated,s0554
+555,NYY,Anthony,Volpe,"Lay Low",s0721
+556,NYY,Billy,McKinney,"The Scotts",s0556
+557,NYY,Ben,Rortvedt,"Locked Up",s0557
+558,NYY,DJ,LeMahieu,"The Rev3nge",s0558
+559,NYY,Giancarlo,Stanton,"Don't Play",s0559
+560,NYY,Gleyber,Torres,"City of Gods",s0560
+561,NYY,Harrison,Bader,"Good For You",s0561
+562,NYY,Isiah,Kiner-Falefa,"Who? What?",s0562
+563,NYY,Jake,Bauers,"High Today",s0563
+564,NYY,Jose,Trevino,"Hip Hop Hooray",s0564
+565,NYY,Josh,Donaldson,"What's Beef",s0565
+566,NYY,Kyle,Higashioka,"I Was Made For Lovin' You",s0566
+567,NYY,Oswaldo,Cabrera,Chimbala,s0567
+568,NYY,Oswald,Peraza,Neverita,s0568
+569,NYY,Willie,Calhoun,"All My Life",s0838
+570,NYY,Albert,Abreu,Bendiciones,s0570
+571,NYY,Carlos,Rodón,Rooster,s0571
+572,NYY,Clarke,Schmidt,"Rosa Parks",s0572
+573,NYY,Clay,Holmes,Sabotage,s0573
+574,NYY,Domingo,Germán,"Vale la Pena",s0574
+575,NYY,Gerrit,Cole,"Lean Back",s0575
+576,NYY,Jonathan,Loáisiga,"Welcome to the Jungle",s0643
+577,NYY,Lou,Trivino,"The End",s0577
+578,NYY,Luis,Severino,Misericordia,s0578
+579,NYY,Michael,King,"Messin' with the King",s0579
+580,NYY,Nestor,Cortes,"El Cero",s0580
+581,NYY,Nick,Ramirez,"In a Minute",s0581
+582,NYY,Ron,Marinaccio,"Duffle Bag Boy",s0582
+583,NYY,Tommy,Kahnle,Ya'meen,s0583
+584,NYY,Wandy,Peralta,Aguanile,s0584
+585,OAK,Domingo,Acevedo,"Mi Ultima Dia",s0585
+586,OAK,Jesús,Aguilar,"It's a Beautiful Day",s0586
+587,OAK,Nick,Allen,"What You Know",s0587
+588,OAK,Seth,Brown,"Caribou Lou",s0588
+589,OAK,JJ,Bleday,"Serial Killa (Instrumental)",s0589
+590,OAK,Conner,Capel,"Southside Still Holdin",s0590
+591,OAK,Aledmys,Díaz,"Rie & Llora",s0591
+592,OAK,Jordan,Diaz,"Quien (TV Remix)",s0592
+593,OAK,Jeurys,Familia,"Danza Kuduro",s0593
+594,OAK,Shintaro,Fujinami,"It's My Life",s0594
+595,OAK,Rico,Garcia,RICO,s0595
+596,OAK,Zach,Jackson,"Blue Collar Boys",s0596
+597,OAK,Dany,Jiménez,"Pegao / Me Miro y La Mire",s0597
+598,OAK,James,Kaprielian,"Hot (Remix)",s0598
+599,OAK,Tony,Kemp,"Need It",s0599
+600,OAK,Shea,Langeliers,"Ride Wit Me",s0786
+601,OAK,Ramón,Laureano,"Todo Esta Ok",s0601
+602,OAK,Sam,Long,"From 84",s0602
+603,OAK,Richard,Lovelady,Kashmir,s0603
+604,OAK,Adrián,Martínez,"El Cachanilla",s0809
+605,OAK,Trevor,May,Rumble,s0605
+606,OAK,Kyle,McCann,"Cold as You",s0863
+607,OAK,Luis,Medina,Gladiador,s0607
+608,OAK,Sam,Moll,"I Won't Back Down",s0608
+609,OAK,Kyle,Muller,"Pour Some Sugar On Me",s0716
+610,OAK,Zach,Neal,"When the Levee Breaks",s0752
+611,OAK,Ryan,Noda,"Narrow Road",s0611
+612,OAK,Spencer,Patton,"Midnight Train to Memphis",s0612
+613,OAK,Adam,Oller,"Fed Up",s0613
+614,OAK,Carlos,Pérez,"Primera Cita",s0614
+615,OAK,Jace,Peterson,"My Rocket",s0615
+616,OAK,Austin,Pruitt,Time,s0616
+617,OAK,Brent,Rooker,"The Well",s0617
+618,OAK,Drew,Rucinski,Ghost,s0618
+619,OAK,Esteury,Ruiz,"La Copa",s0619
+620,OAK,JP,Sears,"Broke Boys",s0671
+621,OAK,Chad,Smith,"South On Ya",s0621
+622,OAK,Kevin,Smith,"Yes Indeed",s0622
+623,OAK,Kirby,Snead,Aspen,s0623
+624,OAK,Tyler,Wade,"Super Hero",s0624
+625,OAK,Ken,Waldichuk,"Fire Squad",s0625
+626,PHI,J.T.,Realmuto,"MONEY & FAME",s0626
+627,PHI,Garrett,Stubbs,"That's Life",s0627
+628,PHI,Josh,Harrison,"Before I Let Go",s0628
+629,PHI,Bryson,Stott,AOK,s0629
+630,PHI,Trea,Turner,"Look Ahead",s0630
+631,PHI,Kody,Clemens,"Top Drops",s0631
+632,PHI,Darrick,Hall,"Pimp Juice",s0632
+633,PHI,Alec,Bohm,Famous,s0633
+634,PHI,Edmundo,Sosa,Desahogo,s0634
+635,PHI,Bryce,Harper,Flower,s0635
+636,PHI,Nick,Castellanos,"Hunger on Hillside",s0636
+637,PHI,Kyle,Schwarber,"Grove St. Party",s0637
+638,PHI,Brandon,Marsh,422+222,s0638
+639,PHI,Cristian,Pache,"Que Piquete",s0639
+640,PHI,Matt,Strahm,"How Bad Do You Want It",s0640
+641,PHI,Aaron,Nola,"I Am Second",s0641
+642,PHI,Gregory,Soto,Plebada,s0642
+643,PHI,Craig,Kimbrel,"Welcome to the Jungle",s0643
+644,PHI,Andrew,Vasquez,"Still D.R.E.",s0644
+645,PHI,Yunior,Marte,"Moreno Soy",s0645
+646,PHI,Zack,Wheeler,Rooster,s0571
+647,PHI,José,Alvarado,"Me Olvide de Vivir",s0647
+648,PHI,Ranger,Suárez,"Mr. Rager",s0648
+649,PHI,Luis,Ortiz,"Ch y la Pizza",s0649
+650,PHI,Nick,Nelson,"New Noise",s0650
+651,PHI,Seranthony,Dominguez,"Calm Down (Violin Cover)",s0651
+652,PHI,Cristopher,Sanchez,Socorro,s0652
+653,PHI,Andrew,Bellatti,"Can't Be Touched",s0766
+654,PHI,Jeff,Hoffman,Alive,s0654
+655,PIT,"Ji Hwan",Bae,"A Bay Bay (The Racthet Remix)",s0655
+656,PIT,David,Bednar,Renegade,s0656
+657,PIT,Rodolfo,Castro,"Rulay & Pica Pollo",s0657
+658,PIT,"Ji Man",Choi,"Burning Up (Fire)",s0658
+659,PIT,Roansy,Contreras,"That's it",s0659
+660,PIT,Wil,Crowe,"Joker and the Thief",s0660
+661,PIT,Oneil,Cruz,"Pinky Ring",s0661
+662,PIT,Jason,Delay,"Blue World",s0662
+663,PIT,Ke'Bryan,Hayes,"Richard Millie Plain",s0663
+664,PIT,Austin,Hedges,"I Wanna Dance With Somebody",s0664
+665,PIT,Jose,Hernandez,"La Piri REMIX",s0665
+666,PIT,Rich,Hill,Evenflow,s0770
+667,PIT,Colin,Holderman,"Soul Survivor (Clean Version)",s0667
+668,PIT,Connor,Joe,Redbone,s0668
+669,PIT,Mitch,Keller,"No Sleep",s0669
+670,PIT,Mark,Mathias,MAGIC,s0670
+671,PIT,Andrew,McCutchen,"Broke Boys",s0671
+672,PIT,Dauri,Moreta,"WWE: Here Comes the Money",s0672
+673,PIT,Johan,Oviedo,"De Donde Yo Salí",s0673
+674,PIT,Bryan,Reynolds,"Back in Black",s0674
+675,PIT,Carlos,Santana,"El Trote",s0675
+676,PIT,Canaan,Smith-Njigba,"Too Many Nights",s0676
+677,PIT,Jack,Suwinski,"Good God Almighty",s0677
+678,PIT,Vince,Velasquez,Superstition,s0678
+679,PIT,Rob,Zastryzny,"Blinding Lights",s0679
+680,SD,Jose,Azocar,"Hay Santo",s0680
+681,SD,Xander,Bogaerts,Freestyle,s0681
+682,SD,Luis,Campusano,"Cost To Be Alive",s0682
+683,SD,Matt,Carpenter,"The Stroke",s0683
+684,SD,José,Castillo,"Song Not Available",NULL
+685,SD,Nabil,Crismatt,"Yandel 150",s0685
+686,SD,Jake,Cronenworth,"Keep Their Heads Ringin'",s0686
+687,SD,Nelson,Cruz,"Sol Soldado",s0687
+688,SD,David,Dahl,"Raindrops (Insane)",s0688
+689,SD,Yu,Darvish,"Crank That",s0689
+690,SD,Adam,Engel,"Song Not Available",NULL
+691,SD,Luis,Garcia,"Andamos Mejor",s0691
+692,SD,Trent,Grisham,"Show Me Love",s0692
+693,SD,Jay,Groome,"Song Not Available",NULL
+694,SD,Josh,Hader,"Every Chance I Get",s0694
+695,SD,Tim,Hill,"So Many Tears",s0695
+696,SD,Brent,Honeywell,"72nd & Central",s0696
+697,SD,Ha-Seong,Kim,HER,s0697
+698,SD,Seth,Lugo,"For Whom The Bell Tolls",s0698
+699,SD,Manny,Machado,"Pour It Up",s0699
+700,SD,Nick,Martinez,Baianá,s0700
+701,SD,Adrian,Morejon,"Song Not Available",NULL
+702,SD,Joe,Musgrove,Vampire,s0702
+703,SD,Austin,Nola,"Nolia Clap",s0703
+704,SD,Rougned,Odor,Tata,s0704
+705,SD,Drew,Pomeranz,"Song Not Available",NULL
+706,SD,Blake,Snell,"Mob Ties",s0706
+707,SD,Juan,Soto,"Esa Muchacha",s0707
+708,SD,Robert,Suarez,Bandoleros,s0904
+709,SD,Domingo,Tapia,"Real Joseador",s0709
+710,SD,Michael,Wacha,"California Love",s0710
+711,SD,Ryan,Weathers,"Night Shift",s0711
+712,SD,Steven,Wilson,"Heavy Is The Head",s0712
+713,SF,Scott,Alexander,"Wild Trip",s0713
+714,SF,Patrick,Bailey,"Lucky Man",s0714
+715,SF,Joey,Bart,"I Wrote The Book",s0715
+716,SF,Tristan,Beck,"Pour Some Sugar On Me",s0716
+717,SF,John,Brebbia,"Wake Me Up Before You Go",s0717
+718,SF,Alex,Cobb,Intro,s0718
+719,SF,Michael,Conforto,Thief,s0719
+720,SF,Brandon,Crawford,"Still Here",s0720
+721,SF,J.D.,Davis,"Lay Low",s0721
+722,SF,Anthony,DeSclafani,"Gimme Shelter",s0722
+723,SF,Isan,Diaz,"Rich Flex",s0723
+724,SF,Camilo,Doval,Bailar,s0724
+725,SF,Thairo,Estrada,"Despues de la Playa",s0725
+726,SF,Wilmer,Flores,"I'll Be There For You",s0726
+727,SF,Luis,Gonzalez,Satisfied,s0727
+728,SF,Mitch,Haniger,"Since '84",s0728
+729,SF,Sean,Hjelle,Bootylicious,s0729
+730,SF,Luke,Jackson,"The Imperial March",s0730
+731,SF,Bryce,Johnson,"Drop It Like It's Hot",s0731
+732,SF,Jake,Junis,Levels,s0732
+733,SF,Mauricio,Llovera,25/8,s0733
+734,SF,Sean,Manaea,"Just the Two of Us",s0734
+735,SF,Joc,Pederson,"I'm So Humble",s0735
+736,SF,Roberto,Pérez,"Me Porto Bonito",s0736
+737,SF,Ford,Proctor,"Out There",s0737
+738,SF,Taylor,Rogers,"The Chain",s0738
+739,SF,Tyler,Rogers,"Ain't No Rest for the Wicked",s0739
+740,SF,Blake,Sabol,"The One",s0740
+741,SF,Casey,Schmitt,"Gold Thangs & Pinky Rangs",s0741
+742,SF,Austin,Slater,Loyal,s0742
+743,SF,Ross,Stripling,"Like I Love You",s0743
+744,SF,Thomas,Szapucki,"If You Want Blood (You've Got It)",s0744
+745,SF,David,Villar,"Jumbotron Sh** Poppin",s0745
+746,SF,Lamonte,"Wade Jr.","Had Enough",s0746
+747,SF,Cole,Waites,"Holler From The Holler",s0747
+748,SF,Ryan,Walker,"Neon Grave",s0748
+749,SF,Logan,Webb,"Killer Whale",s0749
+750,SF,Brett,Wisely,"Bright Side of Life",s0750
+751,SF,Alex,Wood,Revenge,s0751
+752,SF,Mike,Yastrzemski,"When the Levee Breaks",s0752
+753,SEA,Matt,Brash,Fireman,s0753
+754,SEA,Diego,Castillo,"Say Yes",s0754
+755,SEA,J.P.,Crawford,"Around the World",s0755
+756,SEA,Matthew,Festa,"Mambo Italiano (Trap Remix)",s0756
+757,SEA,Chris,Flexen,"Check My Brain",s0757
+758,SEA,Ty,France,""So Fresh, So Clean "",s0758
+759,SEA,Logan,Gilbert,"Gangsta's Paradise",s0759
+760,SEA,Marco,Gonzales,"Run This Town",s0760
+761,SEA,Sam,Haggerty,"The Godfather Waltz",s0761
+762,SEA,Teoscar,Hernández,"Ve Por Tu Suevo",s0762
+763,SEA,Cooper,Hummel,"Hell and Back",s0763
+764,SEA,Jarred,Kelenic,Levels,s0764
+765,SEA,George,Kirby,"Higher (Flume Remix)",s0765
+766,SEA,"Tommy La","La Stella","Can't Be Touched",s0766
+767,SEA,Andrés,Muñoz,"Pepas - David Guetta Remix",s0767
+768,SEA,Penn,Murfee,"Little Wing",s0768
+769,SEA,Tom,Murphy,"My Own Summer (Shove It)",s0769
+770,SEA,AJ,Pollock,Evenflow,s0770
+771,SEA,Cal,Raleigh,"The Way You Move",s0771
+772,SEA,Robbie,Ray,Layers,s0772
+773,SEA,Julio,Rodríguez,"Married To The Game",s0773
+774,SEA,Paul,Sewald,"Jump Around",s0774
+775,SEA,Eugenio,Suárez,"Ameno Amapiano Remix (You Wanna Bamba)",s0775
+776,SEA,Taylor,Trammell,Digits,s0776
+777,SEA,Kolten,Wong,"Hawai'i '78",s0777
+778,STL,Nolan,Arenado,"Dreamin Of The Past",s0778
+779,STL,Alec,Burleson,rodman,s0779
+780,STL,Dylan,Carlson,"Follow God",s0780
+781,STL,Wilson,Contreras,"Calm Down",s0833
+782,STL,Paul,DeJong,"Runnin Down A Dream",s0782
+783,STL,Brendan,Donovan,Desperado,s0783
+784,STL,Tommy,Edman,Stay,s0784
+785,STL,Paul,Goldschmidt,"In The House",s0785
+786,STL,Nolan,Gorman,"Ride Wit Me",s0786
+787,STL,Andrew,Knizner,"Shake Ya Tailfeather",s0787
+788,STL,Taylor,Motter,"Hold On",s0788
+789,STL,Tyler,O'Neill,"Hold Me Closer",s0789
+790,STL,Jordan,Walker,Versace,s0790
+791,STL,Juan,Yepez,"Yep Dat's Me",s0791
+792,STL,Genesis,Cabrera,"Gogo Dance",s0792
+793,STL,Jack,Flaherty,Trance,s0793
+794,STL,Giovanny,Gallegos,"El Indio Enamorado",s0794
+795,STL,Ryan,Helsley,"Hells Bells",s0795
+796,STL,Jordan,Hicks,"Mbappé (Remix)",s0796
+797,STL,Dakota,Hudson,"Rock of Ages",s0797
+798,STL,Steven,Matz,"River of Life",s0798
+799,STL,Miles,Mikolas,"Mississippi Queen",s0799
+800,STL,Jordan,Montgomery,"Back Down",s0800
+801,STL,Packy,Naughton,Chip,s0801
+802,STL,Andre,Pallante,"What I Can't Put Down",s0903
+803,STL,Chris,Stratton,Brother,s0803
+804,STL,Zack,Thompson,"Ride The Lightning",s0804
+805,STL,Drew,VerHagen,"Public Service Announcement",s0805
+806,STL,Adam,Wainwright,"God's Country",s0806
+807,STL,Jake,Woodford,"Glitter Ain't Gold",s0807
+808,TB,Jason,Adam,"Use This Gospel",s0907
+809,TB,Jonathan,Aranda,"El Cachanilla",s0809
+810,TB,Shawn,Armstrong,"God's Gonna Cut You Down",s0810
+811,TB,Randy,Arozarena,"Beautiful Day (Thank You for Sunshine)",s0811
+812,TB,Shane,Baz,Fearless,s0812
+813,TB,Jalen,Beeks,"Where I Belong",s0813
+814,TB,Christian,Bethancourt,"Yo Voy",s0814
+815,TB,Vidal,Bruján,"Ay Si Ñiño",s0815
+816,TB,Yonny,Chirinos,Creere,s0816
+817,TB,Garrett,Cleavinger,""Gin, Smoke, Lies"",s0817
+818,TB,Yandy,Díaz,Lenier,s0818
+819,TB,Zach,Eflin,"Take It Easy",s0819
+820,TB,Pete,Fairbanks,"Secret Crowds",s0820
+821,TB,Calvin,Faucher,"Going to California",s0821
+822,TB,Josh,Fleming,"The Search",s0822
+823,TB,Wander,Franco,"De Kabra A Tiguere",s0823
+824,TB,Tyler,Glasnow,MVP,s0824
+825,TB,Brandon,Lowe,"Burn The House Down",s0825
+826,TB,Josh,Lowe,"Last Night",s0826
+827,TB,Manuel,Margot,Estare,s0827
+828,TB,Shane,McClanahan,"Simple Man",s0828
+829,TB,Francisco,Mejía,Dinero,s0829
+830,TB,Isaac,Paredes,"Ella Baila Sola",s0830
+831,TB,Colin,Poche,Work,s0831
+832,TB,Luke,Raley,"She Had Me at Heads Carolina",s0832
+833,TB,Harold,Ramirez,"Calm Down",s0833
+834,TB,Drew,Rasmussen,"In Bloom",s0834
+835,TB,Jose,Siri,Empaquetate,s0835
+836,TB,Jeffrey,Springs,"No Diggity",s0836
+837,TB,Ryan,Thompson,"Rescue Story",s0837
+838,TB,Taylor,Walls,"All My Life",s0838
+839,TEX,Brock,Burke,"Square Dance",s0839
+840,TEX,Jacob,deGrom,"Simple Man",s0828
+841,TEX,Dane,Dunning,"Kickstart My Heart",s0841
+842,TEX,Ezequiel,Duran,"Con Calma",s0842
+843,TEX,Nathan,Eovaldi,"Come Together",s0843
+844,TEX,Adolis,García,"Spread The Opps",s0844
+845,TEX,Mitch,Garver,"Burning Man",s0845
+846,TEX,Jon,Gray,"Thunderkiss '65",s0846
+847,TEX,Robbie,Grossman,"Tops Drop",s0847
+848,TEX,Andrew,Heaney,"Used To",s0848
+849,TEX,Taylor,Hearn,"Prime Time",s0849
+850,TEX,Jonah,Heim,"Home Sweet",s0850
+851,TEX,Jonathan,Hernandez,"Asi Soy Yo",s0851
+852,TEX,Travis,Jankowski,"In The Bible",s0852
+853,TEX,Josh,Jung,"Can't Stop",s0853
+854,TEX,Ian,Kennedy,"Sad But True",s0854
+855,TEX,John,King,"Fuss and Fight",s0855
+856,TEX,Jose,Leclerc,Bori,s0856
+857,TEX,Nathaniel,Lowe,Desires,s0857
+858,TEX,Brett,Martin,"Mexican Wind",s0858
+859,TEX,Brad,Miller,"The Hills",s0859
+860,TEX,Glenn,Otto,Runaway,s0860
+861,TEX,Martín,Pérez,"Manduko - Victor Porfidio Remix",s0861
+862,TEX,Cole,Ragans,"Money For Nothing",s0862
+863,TEX,Corey,Seager,"Cold As You",s0863
+864,TEX,Marcus,Semien,Graves,s0864
+865,TEX,Josh,Smith,"Suga Suga",s0865
+866,TEX,Will,Smith,Stranglehold,s0866
+867,TEX,Leody,Taveras,"Las Avispas",s0867
+868,TEX,Bubba,Thompson,"BUTTERFLY EFFECT",s0880
+869,TOR,Brandon,Belt,"Say It Ain't So",s0869
+870,TOR,Bo,Bichette,"Yungen (Clean)",s0870
+871,TOR,Cavan,Biggio,"Feds Did a Sweep",s0871
+872,TOR,Matt,Chapman,Antidote,s0872
+873,TOR,Santiago,Espinal,"Alto Riesgo",s0873
+874,TOR,Vladimir,"Guerrero Jr.","Quienes Son Ustedes",s0874
+875,TOR,Danny,Jansen,"Rock and Roll Band",s0875
+876,TOR,Kevin,Kiermaier,Hustlin',s0876
+877,TOR,Alejandro,Kirk,"El Mechón",s0877
+878,TOR,Jordan,Luplow,"Stone Love",s0878
+879,TOR,Whit,Merrifield,"Still Fly",s0879
+880,TOR,George,Springer,"BUTTERFLY EFFECT",s0880
+881,TOR,Daulton,Varsho,Sunrise,s0881
+882,TOR,Chris,Bassitt,Deliverance,s0882
+883,TOR,José,Berríos,"La Resistencia PR",s0883
+884,TOR,Adam,Cimber,"All Things",s0884
+885,TOR,Yimi,García,"Ven Espíritu Santo",s0885
+886,TOR,Kevin,Gausman,Money,s0886
+887,TOR,Yusei,Kikuchi,"We Are Young",s0887
+888,TOR,Alek,Manoah,"No Friends in the Industry",s0888
+889,TOR,Tim,Mayza,"Remember When",s0889
+890,TOR,Zach,Pop,Goosebumps,s0890
+891,TOR,Trevor,Richards,"Runnin’ Outta Moonlight",s0891
+892,TOR,Jordan,Romano,Tsunami,s0892
+893,TOR,Erik,Swanson,"Hillbilly Deluxe",s0893
+894,WSH,Luis,Garcia,"No Le Pegue A La Negra",s0894
+895,WSH,CJ,Abrams,MisUnderstood,s0895
+896,WSH,Ildemaro,Vargas,Sufriendo,s0896
+897,WSH,Riley,Adams,"All The Small Things",s0897
+898,WSH,Victor,Robles,"BA BA",s0898
+899,WSH,Lane,Thomas,"Dirt On My Boots",s0899
+900,WSH,Josiah,Gray,Carousel,s0900
+901,WSH,Joey,Meneses,"Cada Quien",s0901
+902,WSH,Patrick,Corbin,"Going Bad",s0902
+903,WSH,Jordan,Weems,"What I Can't Put Down",s0903
+904,WSH,Andres,Machado,Bandoleros,s0904
+905,WSH,Carl,"Edwards Jr.",Invincible,s0905
+906,WSH,Erasmo,Ramírez,"Tick Tick Boom",s0906
+907,WSH,Alex,Call,"Use This Gospel",s0907
+908,WSH,Kyle,Finnegan,"Edge of Darkness",s0908
+909,WSH,Mason,Thompson,"Outlaw State of Mind",s0909
+910,WSH,Hunter,Harvey,"(What This World Needs Is) A Few More Rednecks",s0910
