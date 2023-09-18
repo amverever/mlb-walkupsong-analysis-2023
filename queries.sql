@@ -28,11 +28,6 @@ CREATE TABLE players (
     song_code 	VARCHAR(10)		NULL
 );
 
-update players
-set song = "Hotel Lobby"
-where song_code = "s0137";
-
-
 CREATE TABLE songs (
 	song_code 		VARCHAR (10) 		NOT NULL PRIMARY KEY,
     song_name		VARCHAR (255)		NOT NULL,
@@ -45,8 +40,6 @@ MODIFY COLUMN song_name VARCHAR (255) NOT NULL;
 
 UPDATE players p
    SET p.song = (SELECT s.song_name FROM songs s WHERE p.song_code = s.song_code);
-
-    
     
 INSERT INTO teams(team_no,team_code,team_name,league,division) VALUES
 (1,"ARI","Arizona Diamondbacks","NL","West"),
@@ -100,15 +93,6 @@ GROUP BY song_name
 HAVING counts > 1
 ORDER BY counts desc;
 
-SELECT *
-FROM player_song
-WHERE song_name = "BUTTERFLY EFFECT";
-
-UPDATE player_song
-set artist2_name = "Clipse"
-where song_name = "Use This Gospel";
-
-commit;
 
 # REMOVE DUPLICUATED ROWS#
 DELETE s1 FROM songs s1
@@ -164,9 +148,6 @@ WHERE DuplicateCount > 1;
 ALTER TABLE songs
 RENAME songs_2;
 
-
-
-
 UPDATE players p
 SET song_code = (
 	SELECT ps.song_code 
@@ -180,14 +161,6 @@ SELECT s.song_code
 from songs s
 join player_song p on p.song_code = s.song_code
     where p.song_name = s.song_name and p.artist_name = s.artist_name;
-
-SELECT first_name
-from players
-where song = "Papa Dios Me Dijo";
-
-UPDATE players
-SET first_name = "Enyel"
-where player_no = 220;
 
 SELECT count(song_code), artist_name
 FROM songs
@@ -245,26 +218,6 @@ FROM (
 			FROM player_song ps2
             GROUP BY ps2.song_name, ps2.artist_name) as ps3) as ps4
 WHERE ps1.counts = ps4.max_counts;
-
-SELECT *
-FROM songs
-where song_name = "I wrote the book";
-
-SELECT *
-FROM player_song
-where song_name = "I wrote the book";
-
-UPDATE player_song
-SET artist_name = "Morgan Wallen"
-WHERE song_name = "I wrote the book";
-
-UPDATE players p, player_song ps
-SET p.song_code = ps.song_code
-WHERE p.player_no = ps.player_no;
-
-
-DELETE FROM songs
-WHERE artist_name = "Morgan Wallan";
 
 
 
